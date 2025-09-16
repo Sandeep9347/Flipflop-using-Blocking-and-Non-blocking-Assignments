@@ -194,22 +194,26 @@ endmodule
 
 ***D Flip flop***
 
-<img width="1388" height="749" alt="image" src="https://github.com/user-attachments/assets/9670d985-9bc5-4f97-9a13-5b9e0e6dc67a" />
+<img width="1380" height="789" alt="Screenshot 2025-09-16 201816 - Copy" src="https://github.com/user-attachments/assets/9a6bdbdf-e151-42de-b06c-246c6f8fdfce" />
 
 
 ***SR Flip Flop***
 
-<img width="1380" height="789" alt="Screenshot 2025-09-16 201816" src="https://github.com/user-attachments/assets/2d804737-3483-4a3c-87b6-cb19f7d7cd91" />
+
+<img width="1380" height="741" alt="Screenshot 2025-09-16 201838" src="https://github.com/user-attachments/assets/1152caa1-0dd4-453a-92c7-73663b53d9e5" />
 
 
 ***JK Flip Flop***
 
+<img width="1388" height="750" alt="Screenshot 2025-09-16 201858" src="https://github.com/user-attachments/assets/711618de-8eac-4b5b-950d-02dc3944b8db" />
 
 
 ***T Flip Flop***
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b11eb968-0057-4f08-a393-7603c69bb030" />
+<img width="1388" height="749" alt="Screenshot 2025-09-16 201917" src="https://github.com/user-attachments/assets/71ff5512-aaa4-465b-b8c6-897890c5011d" />
+
 
 ***Conclusion:***
 
+In this experiment, various flip-flops (JK, T, D, and SR) were successfully designed and simulated using Verilog HDL. Different modeling styles were applied to implement each flip-flop. The simulation results confirmed the correct functionality of all flip-flops, with each design accurately responding to the applied inputs and clock signals. The outputs matched the expected behavior for every type of flip-flop, thereby verifying the correctness of the Verilog implementations.
 
