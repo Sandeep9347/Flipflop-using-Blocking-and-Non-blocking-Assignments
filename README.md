@@ -194,15 +194,17 @@ endmodule
 
 ***D Flip flop***
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6b64f624-5877-4ed9-b0c0-2ee916b3a40a" />
+<img width="1388" height="749" alt="image" src="https://github.com/user-attachments/assets/9670d985-9bc5-4f97-9a13-5b9e0e6dc67a" />
+
 
 ***SR Flip Flop***
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c047331e-2b26-45ad-85cb-ee45880ead7f" />
+<img width="1380" height="789" alt="Screenshot 2025-09-16 201816" src="https://github.com/user-attachments/assets/2d804737-3483-4a3c-87b6-cb19f7d7cd91" />
+
 
 ***JK Flip Flop***
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fa01ab1e-6a8a-43e5-a271-10f3ae4114a4" />
+
 
 ***T Flip Flop***
 
